@@ -1,0 +1,5 @@
+# ninja log v5
+0	10242	1726216981145127615	/mnt/sda/gsplat/ning/3DGS-DR/submodules/cubemapencoder/build/temp.linux-x86_64-cpython-38/src/bindings.o	afcd4cda8a15df79
+0	27357	1726216998269186806	/mnt/sda/gsplat/ning/3DGS-DR/submodules/cubemapencoder/build/temp.linux-x86_64-cpython-38/src/cubemapencoder.o	54fd4e218f7d2e6a
+0	8543	1727619419698718962	/mnt/ziming_data/ning/3DGS-DR/submodules/cubemapencoder/build/temp.linux-x86_64-cpython-38/src/bindings.o	d76208eba156d4a0
+0	20390	1727619431546849613	/mnt/ziming_data/ning/3DGS-DR/submodules/cubemapencoder/build/temp.linux-x86_64-cpython-38/src/cubemapencoder.o	19211fca8590639

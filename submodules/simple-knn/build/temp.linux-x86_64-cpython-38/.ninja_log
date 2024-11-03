@@ -1,0 +1,7 @@
+# ninja log v5
+0	6709	1726216845632641062	/mnt/sda/gsplat/ning/3DGS-DR/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	744e5202e7a25bc6
+0	9273	1726216848196650598	/mnt/sda/gsplat/ning/3DGS-DR/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	18e01dea1e758369
+0	23371	1726216862296702788	/mnt/sda/gsplat/ning/3DGS-DR/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	467d7cbe6c62fc80
+0	5868	1727619390118387742	/mnt/ziming_data/ning/3DGS-DR/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	904b77d7e40e6241
+0	8470	1727619392718417150	/mnt/ziming_data/ning/3DGS-DR/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	b5474263e7c12105
+0	17928	1727619402178523666	/mnt/ziming_data/ning/3DGS-DR/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	fe5c89e80af82fe4
