@@ -1,0 +1,11 @@
+# ninja log v5
+0	2058	1726242484991868604	/mnt/sda/gsplat/ning/3DGS-DR/submodules/diff-surfel-rasterization_c3/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/forward.o	5803ff775c38e2dc
+0	2123	1726242485059867897	/mnt/sda/gsplat/ning/3DGS-DR/submodules/diff-surfel-rasterization_c3/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/backward.o	d70026de56735a6b
+0	6904	1726242489835818483	/mnt/sda/gsplat/ning/3DGS-DR/submodules/diff-surfel-rasterization_c3/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/rasterizer_impl.o	ba053345c5097b1a
+0	9843	1726242492775788309	/mnt/sda/gsplat/ning/3DGS-DR/submodules/diff-surfel-rasterization_c3/build/temp.linux-x86_64-cpython-38/ext.o	5768753eddc7d80c
+0	24450	1726242507383641109	/mnt/sda/gsplat/ning/3DGS-DR/submodules/diff-surfel-rasterization_c3/build/temp.linux-x86_64-cpython-38/rasterize_points.o	88886d1186206a1a
+1	1963	1727619297697302288	/mnt/ziming_data/ning/3DGS-DR/submodules/diff-surfel-rasterization_c3/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/forward.o	938bd4f185464807
+0	1968	1727619297705302386	/mnt/ziming_data/ning/3DGS-DR/submodules/diff-surfel-rasterization_c3/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/backward.o	87e482ecd0e3f496
+1	6032	1727619301765351807	/mnt/ziming_data/ning/3DGS-DR/submodules/diff-surfel-rasterization_c3/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/rasterizer_impl.o	844850ed2cb269f3
+2	9289	1727619305017391271	/mnt/ziming_data/ning/3DGS-DR/submodules/diff-surfel-rasterization_c3/build/temp.linux-x86_64-cpython-38/ext.o	3b93d36692a4ec75
+2	18197	1727619313929498872	/mnt/ziming_data/ning/3DGS-DR/submodules/diff-surfel-rasterization_c3/build/temp.linux-x86_64-cpython-38/rasterize_points.o	85803a61c90fbf91
