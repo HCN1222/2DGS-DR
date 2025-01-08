@@ -82,7 +82,7 @@ class OptimizationParams(ParamGroup):
         self.lambda_dssim = 0.2
         self.lambda_refl_smooth = 0.4
         # 2dgs
-        self.lambda_dist = 0.05
+        self.lambda_dist = 0
         self.lambda_normal = 0.05
         self.lambda_normal_start_iter = 7000
         self.lambda_normal_end_iter = 100_000

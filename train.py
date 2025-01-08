@@ -86,18 +86,6 @@ def training(dataset, opt, pipe, testing_iterations, saving_iterations, checkpoi
 
     initial_stage = True
 
-    # Toycar
-    #ENV_CENTER = torch.tensor([0.6810, 0.8080, 4.4550], device='cuda') # None
-    #ENV_RANGE = 2.707
-
-    # Garden
-    #ENV_CENTER = torch.tensor([-0.2270,  1.9700,  1.7740], device='cuda') # None
-    #ENV_RANGE = 0.974
-
-    # Sedan
-    #ENV_CENTER = torch.tensor([-0.032,0.808,0.751], device='cuda') # None
-    #ENV_RANGE = 2.138
-
     while iteration < TOT_ITER:        
 
         iter_start.record()
