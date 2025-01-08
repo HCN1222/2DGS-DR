@@ -1,3 +1,3 @@
 # 2DGS-DR
 
-[poster](./poster.pdf)
+[Project Poster](./poster.pdf)
